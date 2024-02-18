@@ -7,13 +7,13 @@ Suppose we have three types of characters in a GameApp:
 2. Wizard: Casts spells; uses magic barrier to defend
 3. Archer: Shoots arrows; uses dodge to to defend
 
-Implement two types of Strategy:
-A.  DefenseStrategy<br/>
+Implement two types of Strategy:<br/>
+**A.  DefenseStrategy**<br/>
      1. Shield<br/>
      2. Dodge<br/>
      3. CreateMagic
 
-B.  AttackStrategy<br/>
+**B.  AttackStrategy**<br/>
      1.  CastSpell<br/>
      2.  ShootArrow<br/>
      3.  SwingSword  
