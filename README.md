@@ -1,6 +1,4 @@
-# strategyPattern
-Problem scenario:
-
+# Problem Scenario
 Suppose we have three types of characters in a GameApp:
 
 1. Knight: Attacks with a sword; uses 3 strategies to defend (shield, dodge, magic barrier)
