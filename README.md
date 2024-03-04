@@ -51,3 +51,4 @@ Refactor the existing codes and provide the UML Diagram:
 	}
 
 # UML Class Diagram
+![SoftEng 2 - strategyPattern uml](https://github.com/Brylsmn/StrategyPattern/assets/142909052/46c4bff8-43dc-405e-8035-43b1c762a407)
